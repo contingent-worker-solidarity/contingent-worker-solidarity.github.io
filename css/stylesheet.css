@@ -46,6 +46,8 @@ body {
 
 h1 {
   font-size: 2rem;
+  text-decoration: underline;
+  text-decoration-color: #1e90ff;
 }
 
 h2 {
